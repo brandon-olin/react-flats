@@ -3,7 +3,7 @@ import GoogleMapReact from 'google-map-react';
 import Marker from './Marker';
 
 const AnyReactComponent = ({ text }) => <div>{text}</div>;
-const googleMapsApiKey = 'AIzaSyBt7013dgHPMyuXJ9SxNt7Rd_4kQzS-vcA'
+const googleMapsApiKey = //API KEY GOES HERE
 
 class SimpleMap extends Component {
   static defaultProps = {
